@@ -4,5 +4,5 @@
 </p>
 <p align="center">
   <img src="https://i.imgur.com/Crnuheu.png" width="500" height="auto" align="left" style="margin-right: 10px;" />
-  <span style="font-size: 1.2em; font-weight: bold;">Your Text Here</span>
+  <span style="font-size: 1.2em; font-weight: bold;">BLEUGHHH FILLER</span>
 </p>
